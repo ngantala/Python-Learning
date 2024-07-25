@@ -1,1 +1,1 @@
-
+record = "x.example.com"
